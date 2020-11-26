@@ -11,8 +11,5 @@ class GastoSpec extends Specification implements DomainUnitTest<Gasto> {
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
-    }
+
 }

@@ -11,8 +11,5 @@ class FixtureSpec extends Specification implements DomainUnitTest<Fixture> {
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
-    }
+
 }

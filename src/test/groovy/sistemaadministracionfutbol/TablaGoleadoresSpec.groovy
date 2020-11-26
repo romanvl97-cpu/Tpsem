@@ -11,8 +11,5 @@ class TablaGoleadoresSpec extends Specification implements DomainUnitTest<TablaG
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
-    }
+
 }

@@ -11,8 +11,5 @@ class PartidoSpec extends Specification implements DomainUnitTest<Partido> {
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
-    }
+
 }

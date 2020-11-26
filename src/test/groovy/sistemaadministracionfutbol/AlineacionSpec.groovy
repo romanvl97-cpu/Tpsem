@@ -12,8 +12,5 @@ class AlineacionSpec extends Specification implements DomainUnitTest<Alineacion>
     def cleanup() {
     }
 
-    void "test something"()  {
-        expect:"fix mee"
-            true == false
-    }
+
 }

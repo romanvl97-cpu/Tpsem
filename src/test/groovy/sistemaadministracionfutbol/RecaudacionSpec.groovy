@@ -11,8 +11,5 @@ class RecaudacionSpec extends Specification implements DomainUnitTest<Recaudacio
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
-    }
+
 }

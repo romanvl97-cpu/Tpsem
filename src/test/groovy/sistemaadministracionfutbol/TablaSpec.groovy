@@ -11,8 +11,5 @@ class TablaSpec extends Specification implements DomainUnitTest<Tabla> {
     def cleanup() {
     }
 
-    void "test something"() {
-        expect:"fix me"
-            true == false
-    }
+
 }
