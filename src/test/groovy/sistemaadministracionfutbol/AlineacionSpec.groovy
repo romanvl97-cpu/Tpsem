@@ -6,6 +6,7 @@ import spock.lang.Specification
 class AlineacionSpec extends Specification implements DomainUnitTest<Alineacion> {
 
     def setup() {
+        
     }
 
     def cleanup() {
