@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sistemaadministracionfutbol.EntrenamientoIndividualSpec" tests="5" skipped="0" failures="2" errors="0" timestamp="2020-11-25T22:25:24" hostname="moaipc-Presario-F500-GM639LA-AC8" time="2.763">
+  <properties/>
+  <testcase name="creacion de entrenamiento individual con dia asignado" classname="sistemaadministracionfutbol.EntrenamientoIndividualSpec" time="2.532"/>
+  <testcase name="creacion de entrenamiento individual con actividad asignada" classname="sistemaadministracionfutbol.EntrenamientoIndividualSpec" time="0.043"/>
+  <testcase name="creacion de entrenamiento individual con actividad asignada, luego editada" classname="sistemaadministracionfutbol.EntrenamientoIndividualSpec" time="0.014"/>
+  <testcase name="creacion de entrenamiento y asistencia de un jugador" classname="sistemaadministracionfutbol.EntrenamientoIndividualSpec" time="0.137">
+    <failure message="java.lang.NullPointerException: Cannot invoke method add() on null object" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke method add() on null object
+	at sistemaadministracionfutbol.EntrenamientoIndividualSpec.creacion de entrenamiento y asistencia de un jugador(EntrenamientoIndividualSpec.groovy:36)
+</failure>
+  </testcase>
+  <testcase name="creacion de entrenamiento y asistencia de un jugador, luego eliminacion" classname="sistemaadministracionfutbol.EntrenamientoIndividualSpec" time="0.016">
+    <failure message="java.lang.NullPointerException: Cannot invoke method leftShift() on null object" type="java.lang.NullPointerException">java.lang.NullPointerException: Cannot invoke method leftShift() on null object
+	at sistemaadministracionfutbol.EntrenamientoIndividual.agregarJugador(EntrenamientoIndividual.groovy:24)
+	at sistemaadministracionfutbol.EntrenamientoIndividualSpec.creacion de entrenamiento y asistencia de un jugador, luego eliminacion(EntrenamientoIndividualSpec.groovy:46)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

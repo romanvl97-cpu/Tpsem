@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sistemaadministracionfutbol.JugadorSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-25T22:25:33" hostname="moaipc-Presario-F500-GM639LA-AC8" time="0.186">
+  <properties/>
+  <testcase name="crear jugador con nombre" classname="sistemaadministracionfutbol.JugadorSpec" time="0.186"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
